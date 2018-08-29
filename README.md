@@ -1,1 +1,1 @@
-# CNN Example
+# Mnist CNN Example
